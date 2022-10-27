@@ -6,4 +6,4 @@ collection: Teaching Experience
 permalink: /publication/2017-lecturer-CSE-green-university
 ---
 
-*Course Instructor:* Compiler Design and Construction, Introduction to Computer Networks
+I was the primary instructor of the course titled *Compiler Design and Construction* and *Introduction to Computer Networks*.

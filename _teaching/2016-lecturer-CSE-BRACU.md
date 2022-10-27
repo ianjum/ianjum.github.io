@@ -6,6 +6,7 @@ collection: Teaching Experience
 permalink: /publication/2016-lecturer-CSE-BRACU
 ---
 
-*Course Instructor:* Compiler Design and Construction, Introduction to Computer Science
-*Lab Instructor:* Data Structures, Algorithms, Digital Logic Design, Microprocessors, Artificial Intelligence, Database Systems  
+I taught two courses (*Compiler Design & Construction* and *Introduction to Computer Science*) as primary instructor over the course of 2014 to 2016. I have also instructed in several labs (*Data Structures*, *Algorithms*, *Digital Logic Design*, *Microprocessors*, *Artificial Intelligence*, and *Database Systems*) and helped the primary instructor. 
+
+
  
