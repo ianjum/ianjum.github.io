@@ -8,7 +8,6 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Iffat Anjum"
-subtitle                 : "PhD Candidate at NC State University"
 title_separator          : "-"
 name                     : &name "Iffat Anjum"
 description              : &description "Portfolio for academic job search"
@@ -85,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "PhD Candidate at NC State University"
   location         : "Raleigh, NC, USA"
-  employer         :
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4lXtOh0AAAAJ&hl=en"
-  email            :
+  email            : "iffatanjum91@gmail.com"
   researchgate     : 
   uri              :
   bitbucket        :
