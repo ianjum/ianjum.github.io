@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-logo                     : "site-logo.png"
+logo                     : "assets/images/site-logo.png"
 title                    : "Iffat Anjum"
 title_separator          : "-"
 name                     : &name "Iffat Anjum"
@@ -193,16 +193,16 @@ collections:
 # Defaults
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
   # _pages
   - scope:
       path: ""
