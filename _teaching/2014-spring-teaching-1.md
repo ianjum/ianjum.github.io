@@ -12,7 +12,6 @@ location: "City, Country"
 
 *CSC574 Computer and Network Security:* This is a graduate-level introduction to computer and network security and privacy. I worked as a teaching assistant to help professor design lectures, exams, research projects, and grading. 
 
-
 # Lecturer, University of Dhaka
 *Course Instructor:* Compiler Design and Construction, Computer Architecture and Organization
 *Lab Instructor:* Introduction to Programming Language, Algorithms, Data and Telecommunication Systems
