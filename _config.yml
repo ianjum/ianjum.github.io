@@ -7,6 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
+logo                     : "site-logo.png"
 title                    : "Iffat Anjum"
 title_separator          : "-"
 name                     : &name "Iffat Anjum"
@@ -221,7 +222,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: 
     values:
       layout: single
       author_profile: true
