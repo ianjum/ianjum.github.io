@@ -1,8 +1,9 @@
 ---
 title: "Teaching Assistant, CS, NCSU, USA"
+sub-title: "Computer Science"
 layout: archive
 collection: Teaching Experience
-permalink: /publication/teaching-assistant-CS-NCSU-USA
+permalink: /publication/2018-teaching-assistant-CS-NCSU
 ---
 
 **Teaching Assistant, CS, NCSU**

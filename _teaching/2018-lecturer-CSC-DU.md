@@ -2,7 +2,7 @@
 title: "Lecturer, University of Dhaka, Bangladesh"
 layout: archive
 collection: Teaching Experience
-permalink: /publication/lecturer-CSC-DU-bangladesh
+permalink: /publication/2018-lecturer-CSC-DU
 ---
 
 *Course Instructor:* Compiler Design and Construction, Computer Architecture and Organization
