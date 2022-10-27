@@ -1,8 +1,7 @@
 ---
 
 collection: Teaching Experience
-type: "Undergraduate course"
-location: "City, Country"
+
 ---
 
 # Teaching Assistant, CS, NCSU
