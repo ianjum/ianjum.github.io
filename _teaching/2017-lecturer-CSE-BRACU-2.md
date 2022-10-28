@@ -1,5 +1,5 @@
 ---
-title: "Guest Lecturer, Green University, Bangladesh"
+title: "Guest Lecturer, BRAC University, Bangladesh"
 sub-title: "Computer Science and Engineering"
 layout: archive
 collection: Teaching Experience
