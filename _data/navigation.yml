@@ -15,8 +15,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
    
-  - title: "Research"
+  - title: "Guide"
     url: /markdown/
   
-  - title: "CurriV"
+  - title: "CV"
     url: /cv/
