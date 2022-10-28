@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+<div id="example1"></div>
+<script src="{{ base_path }}/assets/js/plugins/pdfobject.js"></script>
+<script>PDFObject.embed("/files/cv.pdf", "#example1");</script>
+
 <!-- Education
 ======
 * B.S. in GitHub, GitHub University, 2012
