@@ -1,5 +1,5 @@
 ---
-title: 'Device to Device Least Privilege Access Control in 5G User Plane'
+title: 'Current Project 3: Device to Device Least Privilege Access Control in 5G User Plane'
 permalink: /posts/2023/01/future-post-3/
 tags:
   - cool posts
