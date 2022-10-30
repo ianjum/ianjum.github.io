@@ -1,6 +1,6 @@
 ---
 title: 'Current Project 1: Geographically Distributed Management of Enterprise Network Security Policy'
-permalink: /posts/future-post-1/
+permalink: /posts/2023/01/future-post-1/
 tags:
   - cool posts
   - category1

@@ -8,12 +8,12 @@ main:
 
   - title: "Teaching Experience"
     url: /teaching/    
-    
-  - title: "Honars"
-    url: /portfolio/
         
   - title: "Research Experience"
     url: /year-archive/
+
+  - title: "Honars"
+    url: /portfolio/
    
   # - title: "Guide"
   #   url: /markdown/
