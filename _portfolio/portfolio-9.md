@@ -1,6 +1,5 @@
 ---
 title: ""
-excerpt: ""
 collection: portfolio
 ---
 
