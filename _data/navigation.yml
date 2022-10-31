@@ -12,8 +12,8 @@ main:
   - title: "Research Experience"
     url: /year-archive/
 
-  - title: "Honars"
-    url: /portfolio/
+  # - title: "Honars"
+  #   url: /portfolio/
    
   # - title: "Guide"
   #   url: /markdown/
